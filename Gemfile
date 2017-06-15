@@ -15,7 +15,7 @@ gem 'stamp'
 
 gem 'awesome_print'
 
-gem 'boostrap-sass'
+gem 'bootstrap-sass'
 
 gem 'font-awesome-rails'
 
